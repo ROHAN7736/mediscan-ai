@@ -1,7 +1,7 @@
 # MediScan AI: Medical Report Intelligence
-![MediScan AI demo](screenshot/demo.png)
-![MediScan AI demo](screenshot/demo1.png)
-![MediScan AI demo](screenshot/demo2.png)
+![MediScan AI demo](screenshots/demo.png)
+![MediScan AI demo](screenshots/demo1.png)
+![MediScan AI demo](screenshots/demo2.png)
 Upload a lab report (PDF / scan / image) and get structured values, out-of-range flags and a plain-language summary.
 **Informational only. Not a diagnostic system.**
 
