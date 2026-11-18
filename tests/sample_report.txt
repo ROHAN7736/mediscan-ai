@@ -1,0 +1,17 @@
+PATIENT: Test User   Age: 34 Years   Sex: M
+Date: 12/11/2026
+COMPLETE BLOOD COUNT
+Hemoglobin 11.2 g/dL 13.0 - 17.0
+RBC Count 4.1 million/cmm 4.5 - 5.5
+Total WBC Count 12,500 /cumm 4000 - 11000
+Platelet Count 250 10^3/uL 150 - 450
+LIPID PROFILE
+Total Cholesterol 210 mg/dL < 200
+HDL Cholesterol 38 mg/dL > 40
+LDL Cholesterol 130 mg/dL 0 - 100
+Triglycerides 150 mg/dL up to 150
+Glucose (Fasting) 112 mg/dL (70-100)
+HbA1c 6.1 % 4.0 - 5.6
+SGPT (ALT) 28 U/L 0 - 41
+TSH 2.5 uIU/mL 0.4 - 4.0
+Vitamin B12 180 pg/mL 200 - 900
